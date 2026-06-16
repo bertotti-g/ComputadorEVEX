@@ -229,15 +229,18 @@ h2 {
     height: 68vh;
 }
 
+#section2 div.article1 > p {
+    font-size: 150%;
+}
+
 #section2 div.article1 p {
     padding: 1.2% 0;
-    font-size: 140%;
 }
 
 #section2 div.article1 ul div.element li {
     padding: .5% 0;
     list-style: none;
-    font-size: 105%;
+    font-size: 115%;
 }
 
 #section2 div.article1 ul li b {
@@ -457,8 +460,8 @@ div.element:hover {
 }
 
 #section5 h3 {
-    margin: 5% 0;
-    font-size: 220%;
+    margin: 8% 0;
+    font-size: 200%;
     color: #fff;
 }
 
