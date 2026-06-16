@@ -157,7 +157,7 @@ h2 {
 #section1 div div.element {
     margin: 2% .6%;
     background-color: #05242c;
-    font-size: 200%;
+    font-size: 180%;
     width: 18.7%;
     height: 50vh;
     float: left;
@@ -237,7 +237,7 @@ h2 {
 #section2 div.article1 ul div.element li {
     padding: .5% 0;
     list-style: none;
-    font-size: 137%;
+    font-size: 105%;
 }
 
 #section2 div.article1 ul li b {
